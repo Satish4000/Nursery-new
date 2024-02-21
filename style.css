@@ -1,0 +1,283 @@
+/* section 1 */
+.ranga
+{
+    position: sticky;
+    top: 0;
+background: rgba(0, 0, 0, 0.806);
+height: 60px;
+width: 100%;
+
+}
+.ranga input
+{
+height: 20px;
+width: 30%;
+margin-left: 90px;
+background: lightgreen;
+border: double black;
+}
+.ranga button
+{
+height: 20px;
+width: 10%;
+margin-left: 20px;
+background: lightgreen;
+color: black;
+border: double black;
+}
+video
+{
+width: 100%;
+
+}
+select 
+{
+margin-left: 70px;
+background-color: lightgreen;
+
+}
+
+
+/* section 2 */
+h1
+{
+color: purple;
+text-align: center;
+
+}
+
+.card
+{
+
+float: left;
+margin-left: 20px;
+background-color: lime;
+text-align: center;
+
+}
+
+.card :hover
+{
+transform: scale(1.02);
+
+
+}
+.card 
+{
+    border: 1px solid green;
+    border-radius: 1px;
+box-shadow: 7px 7px;
+margin-top: 20px;
+width: 17%;
+
+}
+.card button
+{
+background: yellow 
+
+}
+
+.card img {
+
+width: 100%;
+
+
+}
+
+/* section 3 */
+
+
+
+
+.hhh h2
+{
+margin-top: 50px;
+text-align: center;
+color: rgb(2, 80, 2);
+font-size: 30px;
+font-family: 'Times New Roman', Times, serif;
+border: 1px solid lime;
+}
+
+
+
+.car
+{
+
+
+    height:450px;
+}
+
+
+
+
+
+
+
+.small
+{
+float: left;
+margin-left: 20px;
+/* border: 1px solid red; */
+/* box-shadow: 10px 10px 10px 10px; */
+
+}
+.small img
+{
+height: 150px;
+width: 100%;
+
+}
+.small :hover
+{
+transform: scale(0.97);
+/* border: 1px solid orangered; */
+
+
+}
+
+.small img {
+
+
+
+    border-radius: 250px;
+    /* margin-left: 35px; */
+}
+.small p
+{
+text-align: center;
+color:blue;
+font-size: 30px;
+text-shadow: 1px 1px;
+background-color: rgb(9, 243, 9);
+/* margin-left: 60px; */
+}
+.smalls
+{
+    margin-left: 50px;
+
+
+}
+
+
+
+/* section 4 */
+
+
+.roman {
+text-align: center;
+color: orangered;
+font-size: 25px;
+
+
+}
+.roman h2
+{
+
+    border: 2px dotted red;
+height: 50px;
+width: 100%;
+margin-top: 340px;
+}
+
+
+
+.anushka
+{
+float: left;
+margin-left: 40px;
+border: 2px inset red;
+box-shadow: 10px 10px rgba(0, 0, 0, 0.785);
+text-align: center;
+border-radius: 30px;
+margin-top: 30PX;
+
+}
+.anushka img
+{
+height: 150px;
+border-radius: 30px;
+
+
+}
+.kohli :hover
+{
+transform: scale(1.01);
+/* background: orange; */
+
+}
+.anushka button
+{
+background:  orangered;
+color: blue;
+font-size: 10px;
+
+}
+.anushka h1
+{
+font-size: 10px;
+
+}
+.kohli
+{
+height: 380px;
+border: 2px solid red;
+margin-top: 200px;
+
+
+}
+
+
+/* section  5 */
+
+
+.adress
+{
+border: 3px solid red;
+height: 310px;
+}
+
+.locate iframe
+{
+height: 200px;
+width: 80%;
+
+
+}
+.locate 
+{
+float: left
+
+
+}
+.locate p 
+{
+margin-top: 15px;
+font-size: 22px;
+
+} .locate li
+{
+list-style: none;
+margin-left: 40px;
+margin-top: 20px;
+
+}
+.locate 
+{
+margin-left: 35px;
+color: white;
+}
+.adress
+{
+margin-top: 20px;
+background: black;
+
+}
+.raj
+{
+
+background: black;
+height: 80px;
+width: 100%;
+
+}
